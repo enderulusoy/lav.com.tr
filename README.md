@@ -5,7 +5,8 @@ lav public repository GPLv2
 
 
 this repository was created by Ender Ulusoy (senior system admin) on 10 March 2014 Wednesday 13:00
-main purpose is to build/share IT sources with lav development team and infrastructure professionals.
+
+main purpose is to build/share IT resources with lav development team and infrastructure professionals.
 
 for more information and help please write ender.ulusoy@lav.com.tr
 
